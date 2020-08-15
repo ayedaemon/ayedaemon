@@ -83,7 +83,7 @@ I mostly work with Python and Cloud-Native technologies.☁️🚀
 ### 📫 How to reach me?
 <br>
 
-  <!-- ⦿ Visit my [Website](https://ayedaemon.github.io/) 🌐 <br> -->
+  ⦿ Visit my [Website](https://ayedaemon.github.io/) 🌐 <br> 
   ⦿ Read my [Blogs](https://medium.com/@ayedaemon) 📙😃<br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ayedaemon/) 👨🏻‍💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/aye_daemon) 🐦 <br>
