@@ -72,9 +72,9 @@ I mostly work with Python and Cloud-Native technologies.☁️🚀
 ### Databases
 
  <p float="left">
-  <a href="https://www.postgresql.org/" target="_blank" >
+<!--   <a href="https://www.postgresql.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
-  </a>
+  </a> -->
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/mongo.gif" height="80" />
   </a>
