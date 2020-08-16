@@ -7,10 +7,6 @@ on Backend development with Python and Cloud-Native technologies. -->
 I am [Rishabh Umrao](https://ayedaemon.github.io/), a Computer Science Engineering Student from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Devops, Security and Automation. 🎯
 
 I mostly work with Python and Cloud-Native technologies.☁️🚀
-
-<details>
-  <summary align="center"><samp><h3>Skills</h3><samp></summary>
-  <hr>
   <p float="left">
     <a href="https://www.python.org/" target="_blank" >
       <img src="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/python.gif"  height="90" />
@@ -83,20 +79,16 @@ I mostly work with Python and Cloud-Native technologies.☁️🚀
   </p>
   <hr>
 
-</details>
 
 
 
-
-<details>
-  <summary align="center"><samp><h3>📫 How to reach me?</h3><samp></summary>
+### 📫 How to reach me?
 
   ⦿ Visit my [Website](https://ayedaemon.github.io/) 🌐 <br>
   ⦿ Read my [Blogs](https://medium.com/@ayedaemon) 📙😃<br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ayedaemon/) 👨🏻‍💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/aye_daemon) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:ris3234@gmail.com) 💌 <br>
-</details>
 
 <br><hr><br>
 
