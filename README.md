@@ -9,7 +9,7 @@ I am [Rishabh Umrao](https://ayedaemon.github.io/), a Computer Science Engineeri
 I mostly work with Python and Cloud-Native technologies.☁️🚀
 
 <details>
-  <summary align="center"><h3>Skills</h3></summary>
+  <summary align="center"><samp><h3>Skills</h3><samp></summary>
   <hr>
   <p float="left">
     <a href="https://www.python.org/" target="_blank" >
@@ -89,7 +89,7 @@ I mostly work with Python and Cloud-Native technologies.☁️🚀
 
 
 <details>
-  <summary align="center"><h3>📫 How to reach me?</h3></summary>
+  <summary align="center"><samp><h3>📫 How to reach me?</h3><samp></summary>
 
   ⦿ Visit my [Website](https://ayedaemon.github.io/) 🌐 <br>
   ⦿ Read my [Blogs](https://medium.com/@ayedaemon) 📙😃<br>
