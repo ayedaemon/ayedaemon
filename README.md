@@ -109,4 +109,13 @@ I mostly work with Python and Cloud-Native technologies.☁️🚀
 
 <br><hr><br>
 
-  [![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=ayedaemon)](https://github.com/ayedaemon/github-readme-stats)
+ <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        <img width="450" height="224" img align="left" alt="Fredhiis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayedaemon&theme=vue&show_icons=true&hide_border=true&count_private=true&hide=issues" class="responsive" />
+    </div>
+    <br/>
+    <div style="display: inline-block;">
+        <img width="350" img align="center" alt="Fredhiis's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayedaemon&theme=vue&layout=compact&hide_border=true&count_private=true" class="responsive"/>
+    </div>
+</div>
+<br/>
