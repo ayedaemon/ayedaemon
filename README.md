@@ -1,7 +1,7 @@
 ### Hello World 👋
 
-<!--
 
+<!-- ```
 #
 #                                     mm
 #                                   *@@@
@@ -17,11 +17,11 @@
 #            :::
 #
 #
-# ⃠  ⃠  ⃠  ⃠  ⃠
 #
- -->
+``` -->
 
-I am [Rishabh Umrao](https://ayedaemon.github.io/), a Computer Science Engineering Student from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Devops, Security and Automation. 🎯
+
+I am [Rishabh Umrao](https://ayedaemon.github.io/), a Computer Science and Engineering Graduate (B.Tech) from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Devops, Security and Automation. 🎯
 
 I mostly work with Python and Cloud-Native technologies.☁️🚀
   <p float="left">
@@ -94,10 +94,10 @@ I mostly work with Python and Cloud-Native technologies.☁️🚀
       <img src="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/mongo.gif" height="80" />
     </a>
   </p>
-  <hr>
 
 
 
+---
 
 ### 📫 How to reach me?
 
@@ -107,15 +107,15 @@ I mostly work with Python and Cloud-Native technologies.☁️🚀
   ⦿ Follow me on [Twitter](https://twitter.com/aye_daemon) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:ris3234@gmail.com) 💌 <br>
 
-<br><hr><br>
+---
 
  <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
-        <img width="450" height="224" img align="left" alt="Fredhiis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayedaemon&theme=vue&show_icons=true&hide_border=true&count_private=true&hide=issues" class="responsive" />
+        <img width="450" height="224" img align="left" alt="ayedaemon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayedaemon&theme=vue&show_icons=true&hide_border=true&count_private=true&hide=issues" class="responsive" />
     </div>
     <br/>
     <div style="display: inline-block;">
-        <img width="350" img align="center" alt="Fredhiis's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayedaemon&theme=vue&layout=compact&hide_border=true&count_private=true" class="responsive"/>
+        <img width="350" img align="center" alt="ayedaemon's toplang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayedaemon&theme=vue&layout=compact&hide_border=true&count_private=true" class="responsive"/>
     </div>
 </div>
 <br/>
