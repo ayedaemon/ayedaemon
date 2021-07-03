@@ -68,6 +68,6 @@
 
 </p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayedaemon&show_icons=true&locale=en" alt="ayedaemon" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayedaemon&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ayedaemon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayedaemon&show_icons=true&locale=en" alt="ayedaemon" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayedaemon&show_icons=true&locale=en&hide=prs,issues&theme=dracula" alt="ayedaemon" /></p>
