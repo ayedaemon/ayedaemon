@@ -7,23 +7,34 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/ayedaemon" target="blank"><img src="https://img.shields.io/twitter/follow/ayedaemon?logo=twitter&style=for-the-badge" alt="ayedaemon" /></a> </p> -->
 
-- 🤝 I’m looking for help with **Reverse Engineering and Shellcode Development**
+- 🤝 I’m looking for help with **Reverse Engineering and Shellcode Development** 
 
-- 📫 How to reach me **ris3234@gmail.com**
+- 📫 How to reach me **ayedaemon@gmail.com**
 
 <!-- ### Blogs posts  -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
-<h3 align="left">Connect with me:</h3>
+<!--
+<h3 align="left">Connect wiht me:</h3>
 <p align="left">
-<a href="https://twitter.com/ayedaemon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ayedaemon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayedaemon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayedaemon" height="30" width="40" /></a>
-<a href="https://medium.com/@ayedaemon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ayedaemon" height="30" width="40" /></a>
-<a href="/https://ayedaemon.github.io/index.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://ayedaemon.github.io/index.xml" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/ayedaemon" target="blank">
+   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayedaemon" height="30" width="40" />
+ </a>
+ <a href="https://twitter.com/ayedaemon" target="blank">
+   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ayedaemon" height="30" width="40" />
+ </a>
+ <a href="https://medium.com/@ayedaemon" target="blank">
+   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ayedaemon" height="30" width="40" />
+ </a>
+ <a href="https://ayedaemon.github.io/index.xml" target="blank">
+   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://ayedaemon.github.io/index.xml" height="30" width="40" />
+ </a>
+ <a href="mailto:ayedaemon@protonmail.com" target="blank">
+   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="mailto:ayedaemon@protonmail.com" height="30" width="40" />
+ </a>
 </p>
-
+-->
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
