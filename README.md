@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Umrao</h1>
-<h3 align="center">Yet another Computer Science and Engineering Graduate (B.Tech) from India with a strong interest in Devops, Security and Automation.</h3>
+<h3 align="center">Yet another Security Engineer from India with a strong interest in Devops, Security and Automation.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayedaemon&label=Profile%20views&color=0e75b6&style=flat" alt="ayedaemon" /> </p> -->
 
